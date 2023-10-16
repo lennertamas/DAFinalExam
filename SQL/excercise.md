@@ -1,4 +1,4 @@
-### SQL excercise
+### SQL excercises
 
 ##### Codecool fest
 
