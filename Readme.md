@@ -1,7 +1,7 @@
 ### Dear Student
 
-Welcome to the final exam of Data Analysis Course of Codecool. You are at the end of 4 month, and as we hope, you have gained a lot of useful knowledge during this time.  The practical exam has two parts. In the SQL part you have to write some SQL queries into the solution.,sql fule according to the expectations, furthermore, the attached jupyter notebook file contains the excercises for Pandas part. 
-The perfect solution is worth a total of 100 points, of which you can get 40 points with the sql tasks and 60 with your pandas solutions
+Welcome to the final exam of Data Analysis Course of Codecool. You are at the end of 3 month, and as we hope, you have gained a lot of useful knowledge during this time. The attached jupyter notebook file contains the excercises for Pandas part. 
+The perfect solution is worth a total of 60 points.
 
 Here are some general instructions that a data analyst might follow during an exam:
 
